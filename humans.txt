@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Christian Valenzuela rce.email@gmail.com @rchristianev
 
 # THANKS
 
